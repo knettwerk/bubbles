@@ -4,8 +4,8 @@
 Testing and playing around with the canvas element. This is just a 2d test in order to see what it can do and what it is capable of. Playing around with the following items:
 <ul>
   <li>Testing velocity</li>
+  <li>Resizing the canvas</li>
+  <li>Drawing on the canvas</li>
+  <li>Animating objects on the canvas</li>
+  <li>Storing objects in an array</li>
 </ul>
-Resizing the canvas
-Drawing on the canvas
-Animating objects on the canvas
-Storing objects in an array
