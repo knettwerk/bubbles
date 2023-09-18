@@ -2,9 +2,10 @@
 # Bubbles
 
 Testing and playing around with the canvas element. This is just a 2d test in order to see what it can do and what it is capable of. Playing around with the following items:
-Testing velocity 
+<ul>
+  <li>Testing velocity</li>
+</ul>
 Resizing the canvas
 Drawing on the canvas
 Animating objects on the canvas
 Storing objects in an array
-Dealing with various velocities
